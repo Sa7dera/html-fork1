@@ -59,7 +59,8 @@ body{
 }
 .d11{
 	height: 40px;
-
+	background-color: bisque;
+	text-align: center;
 }
 .d12{
 	height: 40px;
